@@ -1,0 +1,4 @@
+/* Font is loaded in index.html; everything else is styled with styled-components. */
+html {
+  -webkit-text-size-adjust: 100%;
+}

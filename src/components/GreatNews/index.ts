@@ -1,0 +1,1 @@
+export { GreatNews } from './GreatNews'
